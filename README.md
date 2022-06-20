@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alisha-amin
+- 👀 I’m interested in these languages HTML, CSS and JavaScript.
+- 🌱 I’m currently learning JavaScript Algorithms and Data Structures from freecodecamp.org
+- 📥 Find me on the following platforms. codepen.io: alisha-amin | Instagram: @alishah_ameen
